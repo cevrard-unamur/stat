@@ -21,7 +21,7 @@ Donne une valeur de Y par rapport à X pour une droite de régression basé sur 
 vecteur X et un vecteur Y.
 }
 \examples{
-_Les cotes de 9 étudiants en Janvier et en fin d'année sont les suivantes._
+Les cotes de 9 étudiants en Janvier et en fin d'année sont les suivantes.
 Janvier <- c(77, 50, 71, 72, 81, 94, 96, 99, 67)
 Juin <- c(82, 66, 78, 34, 47, 85, 99, 99, 68)
 
